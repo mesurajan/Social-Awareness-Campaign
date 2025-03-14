@@ -1,0 +1,23 @@
+.about-container{
+    padding-left: 100px;
+    padding-right: 100px;
+    text-align: justify;
+    
+}
+.about-header h2,h4
+{
+text-align: center;
+
+}
+.btn:hover{
+    box-shadow: 0px 0px 2px black;
+    transform: scale(1.06);
+    transition: all 0.3s ease-in-out ;
+ }
+ .btn a{
+     list-style: none;
+     text-decoration: none !important;
+ }
+ #about{
+    padding-top: 60px;
+ }

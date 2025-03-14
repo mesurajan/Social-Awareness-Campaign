@@ -1,0 +1,52 @@
+.impact-container{
+    padding-left: 100px;
+    padding-right: 100px;
+    text-align: justify;
+}
+#impact{
+    padding-top: 60px;
+}
+
+.impact-container h2{
+    font-size: 28px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+.success-stories h3{
+text-align: center;
+font-size: 30px;
+padding-top: 45px;
+}
+
+.success-stories h4
+{
+    text-align: left;
+
+}
+
+
+.btn{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 8px;
+    border: 0.5px solid black;
+}
+.btn:hover{
+   box-shadow: 0px 0px 2px black;
+   transform: scale(1.06);
+   transition: all 0.3s ease-in-out ;
+}
+.btn a{
+    list-style: none;
+    text-decoration: none !important;
+}
+.partner-logos img{
+    
+    
+    max-width: 200px;
+    width: 90%;
+    max-height: 200px;
+    height: 90%;
+}
